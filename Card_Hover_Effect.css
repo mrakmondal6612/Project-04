@@ -1,0 +1,28 @@
+/* #x{
+    height: 100px;
+    width: 100px;
+    
+    
+} */
+.card{
+    /* height: 100px;
+    width: 100px; */
+    border: 2px solid black;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 8px 10px black;
+    transition: 0.6s;
+   
+.desc{
+    padding: 0 2px 0 10px;
+}
+}
+img{
+    height: 200px;
+    width: 200px;
+    
+}
+.card:hover{
+    box-shadow: -2px 8px 15px rgb(13, 149, 222);
+}
